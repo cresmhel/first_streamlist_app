@@ -70,7 +70,7 @@ if streamlit.button('Add a Fruit to the List'):
   streamlit.text(back_from_function)
 
 # don't run anything past here while we troubleshoot
-stereamlit.stop()
+streamlit.stop()
 
 # import snowflake.connector
 
